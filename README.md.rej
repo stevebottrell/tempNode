@@ -1,0 +1,7 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -0,4 +0 @@
+-tempNode
+-========
+-
+-Remote Temperature Node
++Remote temperature sensor using Atmel Atmega328p
