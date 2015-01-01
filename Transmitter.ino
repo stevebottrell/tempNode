@@ -14,7 +14,6 @@
 #include <SPI.h>
 #include <nRF24L01.h>
 #include "printf.h"
-#include <EEPROM.h>
 #include <avr/sleep.h>
 #include <avr/power.h>
 #define CE_PIN   7 //pin 9 on 8mhz sensor pin 7 on 16mhz sensor
