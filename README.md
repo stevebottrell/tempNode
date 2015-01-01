@@ -1,0 +1,4 @@
+tempNode
+========
+
+Remote Temperature Node
